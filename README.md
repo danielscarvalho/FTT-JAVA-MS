@@ -14,4 +14,8 @@ Java microservices collection LAB
 9. checkrg: returns true or false for a given Brazilian RJ document number
 10. xml2json: returns a json message from a givem XML
 11. json2xml: returns a XML from a givem JSON message
-12.  
+12. permutations: returns a list of all possible permutations given a list (json)
+13. statistics: returns a list of statisitcal data about a given numerical list (json), such as: max, min, mean, median, moda, standard deviation
+14. checkprime: returns true if a given number is prime, false otherwise
+15. getfibonacci: returns the nth fibonacci number from a given value (sequence)
+16. 
